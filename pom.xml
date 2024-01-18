@@ -13,7 +13,11 @@
   <dependencies>
     <dependency>
       <groupId>ru.ibsqa.chameleon</groupId>
-      <artifactId>chameleon-core-cucumber</artifactId>
+      <artifactId>chameleon-allure-cucumber</artifactId>
+    </dependency>
+    <dependency>
+      <groupId>ru.ibsqa.chameleon</groupId>
+      <artifactId>chameleon-web-cucumber</artifactId>
     </dependency>
   </dependencies>
   <repositories>
